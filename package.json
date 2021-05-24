@@ -1,7 +1,7 @@
 {
-  "name": "simple-db",
-  "version": "1.0.0",
-  "description": "recon db but fixed",
+  "name": "reconlx-db",
+  "version": "1.3.0",
+  "description": "recon db but fixed bugs",
   "main": "index.js",
   "scripts": {
     "test": "echo yes"
