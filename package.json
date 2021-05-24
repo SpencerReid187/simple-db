@@ -1,0 +1,19 @@
+{
+  "name": "simple-db",
+  "version": "1.0.0",
+  "description": "recon db but fixed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo yes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamersindo1223/simple-db.git"
+  },
+  "author": "gamersindo1223",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gamersindo1223/simple-db/issues"
+  },
+  "homepage": "https://github.com/gamersindo1223/simple-db#readme"
+}
