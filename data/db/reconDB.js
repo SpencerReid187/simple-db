@@ -17,7 +17,9 @@ class reconDB {
                     "There is no established  connection with mongoose and a mongoose connection is required!"
                 );
             mongoose.connect(options.uri, {
+                useNewUrlParser: true, 
                 useUnifiedTopology: true,
+                useFindAndModify: false,
             });
         }
         this.model = require(require("path").join(__dirname, "schema.js"));
